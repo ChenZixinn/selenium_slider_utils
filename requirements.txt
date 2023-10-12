@@ -1,0 +1,3 @@
+ddddocr==1.4.7
+Requests==2.31.0
+selenium==3.141.0
