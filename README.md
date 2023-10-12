@@ -2,7 +2,7 @@
 
 
 
-![image-20231012161749558](C:\Users\sw1001\AppData\Roaming\Typora\typora-user-images\image-20231012161749558.png)
+![image-20231012161749558](./example.png)
 
 #### 一、说明
 
